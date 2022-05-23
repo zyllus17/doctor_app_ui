@@ -1,6 +1,6 @@
 # Doctor App UI
 
-App UI for Doctor & Health app made by [Gilang Segara](https://www.figma.com/@bungspaces) available on [Figma Communtiy](https://www.figma.com/community/file/867963472996705280)
+App UI for Doctor & Health app designed by [Gilang Segara](https://www.figma.com/@bungspaces) available on [Figma Communtiy](https://www.figma.com/community/file/867963472996705280)
 
 ## Table of Contents
 
