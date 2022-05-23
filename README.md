@@ -38,7 +38,7 @@ My work is free and I don't like hiding my work behind a paywall like others so 
 
 If you like my work and can support me to make more open source UI designs then do consider supporting me. 
 
-## Tap & Pay (Free)
+# Tap & Pay (Free)
 
 If you cannot support me financially, you can donate to me with the click of a button free of cost on [Zink](https://zink.tips/marufhassan) which is a micro-donation platform.
 
@@ -46,11 +46,13 @@ If you cannot support me financially, you can donate to me with the click of a b
 "><img src="https://pbs.twimg.com/profile_images/1521486593089019904/blQ-auZR_400x400.jpg" width="60"></a>
 
 
-## UPI
+# UPI
 
 Indians can use any UPI app to support me.
 
 <img src="screenshots/upi.jpeg" width="250">
+
+# Card/Paypal
 
 Other countries can help me using Ko-fi
 
